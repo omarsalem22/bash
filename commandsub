@@ -1,0 +1,4 @@
+#./bin/bash
+Files=$(ls)
+
+echo " Files in  directory are $Files "
